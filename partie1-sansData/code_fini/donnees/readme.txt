@@ -1,5 +1,3 @@
-FOCM_statements_characteristics_050525.csv : données brutes à utiliser dans partie 0
-
 df_3dates.csv : 
 -tableau réduit (Date, Speaker, Statement, Member) entre 2005-02-02 et 2005-05-03 avec toutes les interventions brutes 
 -à utiliser dans partie 0
